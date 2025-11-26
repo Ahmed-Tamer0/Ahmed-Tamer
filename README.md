@@ -35,21 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Tamer0&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Tamer0&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-## 🔥 Streak Stats  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahmed-Tamer0&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 Achievements  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Tamer0&theme=tokyonight&no-bg=true&margin-w=5" />
